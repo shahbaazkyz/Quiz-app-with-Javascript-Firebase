@@ -126,8 +126,8 @@ body {
 $The Main Container
 \*-----------------------------------*/
 .container {
-	width: 560px;
-	height: auto;
+	width: 575px;
+	height: 600px;
 	padding: 0;
 	margin: auto;
 	color: #415868;
